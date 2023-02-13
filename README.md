@@ -2,9 +2,9 @@
 <h1>Fake Bank - Application</h1>
 
 <h2>Description</h2>
-Project consists of using a command-line application called "GoBuster" to brute-force FakeBank's website to find hidden directories and pages. GoBuster takes a list of potential page or directory names and tries accessing a website with each of them; if the page exists, it tells us.
+This project consists of using a command-line application called "GoBuster" to brute-force FakeBank's website to find hidden directories and pages. GoBuster takes a list of potential page or directory names and tries accessing a website with each of them; if the page exists, it tells us.
 <br />
-
+https://user-images.githubusercontent.com/125272645/218554368-505cf1fb-efc2-4aad-9fea-f8d75825671f.mp4
 
 <h2>Languages and Utilities Used</h2>
 
