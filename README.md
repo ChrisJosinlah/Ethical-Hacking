@@ -22,11 +22,11 @@ A terminal, also known as the command-line, allows us to interact with a compute
 
 https://user-images.githubusercontent.com/125272645/218560010-876d3d04-7e57-415a-a494-198f440219ae.mp4
 
-<br />
-Step 2) Found hidden website pages
+<br />Step 2) Found hidden website pages
 Most companies will have an admin portal page, giving their staff access to basic admin controls for day-to-day operations. For a bank, an employee might need to transfer money to and from client accounts. Often these pages are not made private, allowing attackers to find hidden pages that show, or give access to, admin controls or sensitive data.
 
-I typed the following command into the terminal to find potentially hidden pages on FakeBank's website using GoBuster (a command-line security application).:  
+I typed the following command into the terminal to find potentially hidden pages on FakeBank's website using GoBuster (a command-line security application).:
+
 <br/>
 <img src="https://user-images.githubusercontent.com/125272645/218570689-209aff77-5291-402a-8bb0-d04c9f04c3c7.png"/>
 
