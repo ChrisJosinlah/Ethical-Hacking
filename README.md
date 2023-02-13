@@ -4,7 +4,6 @@
 <h2>Description</h2>
 This project consists of using a command-line application called "GoBuster" to brute-force FakeBank's website to find hidden directories and pages. GoBuster takes a list of potential page or directory names and tries accessing a website with each of them; if the page exists, it tells us.
 <br />
-https://user-images.githubusercontent.com/125272645/218554368-505cf1fb-efc2-4aad-9fea-f8d75825671f.mp4
 
 <h2>Languages and Utilities Used</h2>
 
@@ -20,8 +19,11 @@ https://user-images.githubusercontent.com/125272645/218554368-505cf1fb-efc2-4aad
 <p align="center">
 Step 1) Open a terminal
 <br/>
- A terminal, also known as the command-line, allows us to interact with a computer without using a graphical user interface. On the machine, I opened the terminal using the Terminal icon:  
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A terminal, also known as the command-line, allows us to interact with a computer without using a graphical user interface. On the machine, I opened the terminal using the Terminal icon:  
+
+https://user-images.githubusercontent.com/125272645/218560010-876d3d04-7e57-415a-a494-198f440219ae.mp4
+
+"/>
 <br />
 <br />
 Select the disk:  <br/>
