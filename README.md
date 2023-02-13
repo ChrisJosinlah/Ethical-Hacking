@@ -33,12 +33,10 @@ I typed the following command into the terminal to find potentially hidden pages
 
 <img src="https://user-images.githubusercontent.com/125272645/218570689-209aff77-5291-402a-8bb0-d04c9f04c3c7.png"/>
 <br />
+In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
+As you can see, GoBuster scans the website with each word in the list, finding pages that exist on the site. GoBuster shows us the pages it found in the list of page/directory names (indicated by Status: 200).
+
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
