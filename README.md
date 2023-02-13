@@ -46,15 +46,12 @@ Step 3) Hack the bank
 I found a secret bank transfer page that allows one to transfer money between accounts at the bank (/bank-transfer). 
 
 I then typed the hidden page into the FakeBank website on the machine.  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+https://user-images.githubusercontent.com/125272645/218575129-177ff228-adf1-45a7-8144-884e40cbe2ea.mp4
+
+
+This page allows an attacker to steal money from any bank account, which is a critical risk for the bank. As an ethical hacker, I would (with permission) find vulnerabilities in their application and report them to the bank to fix before a hacker exploits them.
 </p>
 
 <!--
