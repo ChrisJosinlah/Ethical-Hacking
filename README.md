@@ -8,8 +8,8 @@ Project consists of using a command-line application called "GoBuster" to brute-
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Virtual Machine</b> 
+- <b>GoBuster command-line application</b>
 
 <h2>Environments Used </h2>
 
