@@ -38,10 +38,14 @@ In the command above, -u is used to state the website we're scanning, -w takes a
 As you can see, GoBuster scans the website with each word in the list, finding pages that exist on the site. GoBuster shows us the pages it found in the list of page/directory names (indicated by Status: 200).
 
 <br />
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://user-images.githubusercontent.com/125272645/218573103-3aa275b0-6e6e-4b9a-9f8b-147c18c5c6e6.png"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
+Step 3) Hack the bank
+
+I found a secret bank transfer page that allows one to transfer money between accounts at the bank (/bank-transfer). 
+
+I then typed the hidden page into the FakeBank website on the machine.  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
