@@ -18,7 +18,9 @@ Project consists of using a command-line application called "GoBuster" to brute-
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Step 1) Open a terminal
+<br/>
+ A terminal, also known as the command-line, allows us to interact with a computer without using a graphical user interface. On the machine, I opened the terminal using the Terminal icon:  
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
