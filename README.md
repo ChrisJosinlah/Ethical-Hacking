@@ -37,7 +37,7 @@ As you can see, GoBuster scans the website with each word in the list, finding p
 <br />
 
 <img src="https://user-images.githubusercontent.com/125272645/218573103-3aa275b0-6e6e-4b9a-9f8b-147c18c5c6e6.png"/>
-<br />
+
 Step 3) Hack the bank
 
 I found a secret bank transfer page that allows one to transfer money between accounts at the bank (/bank-transfer). 
