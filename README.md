@@ -48,6 +48,10 @@ https://user-images.githubusercontent.com/125272645/218575129-177ff228-adf1-45a7
 
 
 This page allows an attacker to steal money from any bank account, which is a critical risk for the bank. As an ethical hacker, I would (with permission) find vulnerabilities in their application and report them to the bank to fix before a hacker exploits them.
+
+https://user-images.githubusercontent.com/125272645/218584788-9e842760-6adc-47fd-89ec-e5f4711de678.mp4
+
+As shown in the final video above, I was able to successfully transfer $2000 from FakeBank's Staff Account: 2276 to my fake bank Account: 8881
 </p>
 
 <!--
